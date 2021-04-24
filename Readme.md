@@ -7,7 +7,7 @@
 
 ### Components of the system
 - **Friends**: users who can exchange messages
-- **Wall*: contains messages posted by friends
+- **Wall**: contains messages posted by friends
 - **Server**: Stores information about the different users, their walls and who they are friends with
 
 ---
