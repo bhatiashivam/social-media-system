@@ -2,7 +2,7 @@
 ---
 
 ### Introduction
-- lorem
+- Social Media System with Client-Server architecture to let user make friends and post messages on their Walls
 ---
 
 ### Components of the system
